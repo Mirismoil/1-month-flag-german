@@ -1,0 +1,14 @@
+*{
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+.germany{
+    width: 400px;
+    height: 300px;
+    margin: 170px 410px;
+   background-image: linear-gradient(black 30%, red 30% 65%, yellow 65%);
+
+
+
+}
